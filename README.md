@@ -26,3 +26,5 @@ We have to output our result as ```output.txt``` whose format is:
 
 2. Next n lines: the n x n board, one line in the file per board row, including the queens and obstacles. It will have a 0 where there is nothing, a 1 where you placed a queen, and a 2 where there is an obstacle.
 ```
+
+Just compile and run ```main.cpp```
