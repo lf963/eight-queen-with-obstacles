@@ -3,9 +3,6 @@ This aim of this project is to solve a problem based on traditional [eight queen
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
 You need C++11 compiler because this project is done in C++11.
 
 ## Running the tests
